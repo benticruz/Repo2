@@ -1,0 +1,12 @@
+ Volume in drive D is BENTI
+ Volume Serial Number is FC73-8E0C
+
+ Directory of D:\GitPractice
+
+2019-07-05  05:51 PM    <DIR>          .
+2019-07-05  05:51 PM    <DIR>          ..
+2019-07-05  02:56 PM                22 index.html
+2019-07-05  02:55 PM                31 test1.txt
+2019-07-05  05:51 PM                 0 test2.txt
+               3 File(s)             53 bytes
+               2 Dir(s)  36,502,269,952 bytes free
